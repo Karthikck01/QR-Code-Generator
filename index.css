@@ -1,6 +1,7 @@
 main {
     background-image: linear-gradient(var(--deg), #A100FFFF 0%, #71C4FFFF 100%);
     min-height: 100vh;
+    animation: rotate 10s infinite linear;
 }
 @property --deg{
     syntax: "<angle>";
