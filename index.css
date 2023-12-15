@@ -9,7 +9,7 @@ main {
     inherits: false;
 }
 
-@keyframes rotate {
+@keyframes rotate { 
     0%{
         --deg: 360deg;
     }
